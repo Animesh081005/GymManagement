@@ -26,10 +26,17 @@ This desktop application also has a database connectivity with jdbc drivers of j
 ## Note:-
 _The id and password for all types of users are_ **user1** _and_ **pass1**. _This can be changed either from the database directly or after logging in the desktop application._
 # Screenshots
-![picture alt](https://user-images.githubusercontent.com/46554662/64921349-f9321a80-d7df-11e9-9d4e-b13285a8a253.png "Flash Screen")
-![picture alt](https://user-images.githubusercontent.com/46554662/64921350-f9321a80-d7df-11e9-8702-124ad7345e5f.png "Login Type")
-![picture alt](https://user-images.githubusercontent.com/46554662/64921354-f9cab100-d7df-11e9-9fdf-3a5fc2422ef5.png "Login Screen")
-![picture alt](https://user-images.githubusercontent.com/46554662/64921351-f9cab100-d7df-11e9-87a8-2d335cf4b9ef.png "Manager Functionality")
-![picture alt](https://user-images.githubusercontent.com/46554662/64921352-f9cab100-d7df-11e9-8cb0-f8a44d8c505a.png "Change Password")
-![picture alt](https://user-images.githubusercontent.com/46554662/64921353-f9cab100-d7df-11e9-93cf-0c63d9f6c3ed.png "SignOut Message")
+![Screenshot of flash screen](https://user-images.githubusercontent.com/46554662/64921349-f9321a80-d7df-11e9-9d4e-b13285a8a253.png "Flash Screen")
+![Screenshot of Login Type](https://user-images.githubusercontent.com/46554662/64921350-f9321a80-d7df-11e9-8702-124ad7345e5f.png "Login Type")
+![Screenshot of Login Screen](https://user-images.githubusercontent.com/46554662/64921354-f9cab100-d7df-11e9-9fdf-3a5fc2422ef5.png "Login Screen")
+![Screenshot of Manager Page](https://user-images.githubusercontent.com/46554662/64921351-f9cab100-d7df-11e9-87a8-2d335cf4b9ef.png "Manager Functionality")
+![Screenshot of Password Change](https://user-images.githubusercontent.com/46554662/64921352-f9cab100-d7df-11e9-8cb0-f8a44d8c505a.png "Change Password")
+![Screenshot of SignOut Message](https://user-images.githubusercontent.com/46554662/64921353-f9cab100-d7df-11e9-93cf-0c63d9f6c3ed.png "SignOut Message")
+
+# Contact
+mailto:  ***_a.081005@gmail.com_***
+
+# License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
