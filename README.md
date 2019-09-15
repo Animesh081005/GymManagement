@@ -34,7 +34,7 @@ _The id and password for all types of users are_ **user1** _and_ **pass1**. _Thi
 ![Screenshot of SignOut Message](https://user-images.githubusercontent.com/46554662/64921353-f9cab100-d7df-11e9-93cf-0c63d9f6c3ed.png "SignOut Message")
 
 # Contact
-mailto:  ***_a.081005@gmail.com_***
+mailto:  ***a.081005@gmail.com***
 
 # License
 
