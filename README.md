@@ -26,4 +26,4 @@ This desktop application also has a database connectivity with jdbc drivers of j
 ## Note:-
 _The id and password for all types of users are_ **user1** _and_ **pass1**. _This can be changed either from the database directly or after logging in the desktop application._
 # Screenshots
-![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg)
+![picture alt](https://drive.google.com/open?id=1mf5Mb36S_2mm57fUQPQRWM6XWYvIoswI)
