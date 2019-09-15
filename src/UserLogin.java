@@ -52,9 +52,9 @@ public class UserLogin extends javax.swing.JFrame {
         setPreferredSize(new java.awt.Dimension(1000, 500));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel2.setFont(new java.awt.Font("Tahoma", 3, 48)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Tahoma", 3, 56)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("VIRTUAL GYM TRAINER");
+        jLabel2.setText("GYM MANAGEMENT");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 630, -1));
 
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(""));

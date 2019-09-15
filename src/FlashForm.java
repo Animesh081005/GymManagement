@@ -43,14 +43,13 @@ public class FlashForm extends javax.swing.JFrame implements Runnable
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(0, 0, 0));
         setUndecorated(true);
-        setPreferredSize(new java.awt.Dimension(1000, 500));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
         getContentPane().add(jProgressBar1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 430, 1020, 20));
 
-        jLabel2.setFont(new java.awt.Font("Tahoma", 3, 48)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Tahoma", 3, 56)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("VIRTUAL GYM TRAINER");
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, -1, -1));
+        jLabel2.setText("GYM MANAGEMENT");
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 20, -1, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gym.gif"))); // NOI18N
         jLabel1.setText("jLabel1");

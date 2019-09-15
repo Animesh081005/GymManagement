@@ -272,7 +272,7 @@ public class UserPage extends javax.swing.JFrame {
 
         jLabel11.setFont(new java.awt.Font("Times New Roman", 3, 28)); // NOI18N
         jLabel11.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel11.setText("virtualgym@a.com");
+        jLabel11.setText("mailaddress@domain.com");
 
         jLabel12.setFont(new java.awt.Font("Times New Roman", 3, 30)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(255, 255, 255));
@@ -280,7 +280,7 @@ public class UserPage extends javax.swing.JFrame {
 
         jLabel13.setFont(new java.awt.Font("Times New Roman", 3, 28)); // NOI18N
         jLabel13.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel13.setText("9589497123");
+        jLabel13.setText("123456789");
 
         javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
         jPanel9.setLayout(jPanel9Layout);
@@ -301,7 +301,7 @@ public class UserPage extends javax.swing.JFrame {
                     .addContainerGap(138, Short.MAX_VALUE)))
             .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel9Layout.createSequentialGroup()
-                    .addContainerGap(154, Short.MAX_VALUE)
+                    .addContainerGap(173, Short.MAX_VALUE)
                     .addComponent(jLabel13)
                     .addGap(66, 66, 66)))
         );
