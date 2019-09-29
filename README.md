@@ -20,7 +20,7 @@ This desktop application also has a database connectivity with jdbc drivers of j
   
 # Guidelines
 ## IDE used:-
-This application is developed using Netbeans IDE.
+Apache Netbeans
 ## Setting up the database:-
 1. Create a database named **_demodb_**
 2. Import the **_db.sql_** file into the **_demodb_** database_(The **_db.sql_** file is present inside the database folder)_.
