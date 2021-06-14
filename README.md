@@ -25,7 +25,7 @@ Netbeans 8.2
 This project requires the following jar files to be added.
 1. <a href="https://jar-download.com/?search_box=ojdbc8+jar">OJDBC(version 19.3.0.0)</a>
 2. <a href="http://www.java2s.com/Code/Jar/m/Downloadmysqlconnectorjavajar.htm">Mysql-connector-java</a>
-Download these JAR files and open the project in Netbeans IDE and add these jars by right clicking on the libraries folder (shown in the Project window of Netbeans)
+#### Download these JAR files and open the project in Netbeans IDE and add these jars by right clicking on the libraries folder (shown in the Project window of Netbeans)
 ## Setting up the database:-
 1. Create a database named **_demodb_** 
 2. Import the **_db.sql_** file into the **_demodb_** database_(The **_db.sql_** file is present inside the database folder)_.
