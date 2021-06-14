@@ -20,10 +20,16 @@ This desktop application also has a database connectivity with jdbc drivers of j
   
 # Guidelines
 ## IDE used:-
-Apache Netbeans
+Netbeans 8.2
+## JAR Dependencies:-
+This project requires the following jar files to be added.
+1. <a href="https://jar-download.com/?search_box=ojdbc8+jar">OJDBC(version 19.3.0.0)</a>
+2. <a href="http://www.java2s.com/Code/Jar/m/Downloadmysqlconnectorjavajar.htm">Mysql-connector-java</a>
+Download these JAR files and open the project in Netbeans IDE and add these jars by right clicking on the libraries folder (shown in the Project window of Netbeans)
 ## Setting up the database:-
-1. Create a database named **_demodb_**
+1. Create a database named **_demodb_** 
 2. Import the **_db.sql_** file into the **_demodb_** database_(The **_db.sql_** file is present inside the database folder)_.
+#### Note - If you are unable to import the db.sql file, for example while using community edition of some DBMS softwares, then you can also just simply create a database named **_demodb_** and execute the queries given in **_db.sql_**.
 3. Once the database server is setup, open the project in netbeans and run the project.
 ## Note:-
 _The id and password for all types of users are_ **user1** _and_ **pass1**. _This can be changed either from the database directly or after logging in the desktop application._
